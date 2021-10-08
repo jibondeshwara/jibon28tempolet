@@ -1,0 +1,115 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    max-width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.navbar-new ul li a{
+    color: #21252977;
+    font-weight: 700;
+    font-size: 18px;
+}
+.navbar-new ul li a:hover{
+    color: black;
+}
+.navbar-new ul li a:focus{
+    color: black;
+}
+.navbar-new ul li:first-child>a{
+    color: black;
+}
+
+.philip{
+    background-color: #F9F9FF;
+}
+.philip .top-center{
+    position: relative;
+    top: 120px;
+}
+
+.btn{
+    background-color: #8490FF;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+button.navbar-toggler {
+    margin-top: 10px;
+}
+
+.number{
+    background-color: #8490FF;
+}
+.number h5{
+    color: rgba(255, 255, 255, 0.774);
+}
+
+.start-using{
+    background-color: #F9F9FF;
+}
+
+.bg-style{
+    background-color: #F9F9FF;
+    width: 30%;
+    margin: auto;
+    padding: 35px 0px;
+    border-radius: 50%;
+}
+
+.btn-buy{
+    background-color: white;
+    color: #7185E1;
+    border: 2px solid #7185E1;
+    border-radius: 5px;
+    font-size: 30px;
+    padding: 10px 30px;
+    transition: .4s;
+}
+.btn-buy:hover{
+    color: white;
+    background-color: #7185E1;
+}
+
+.start-using h4{
+    color: rgba(0, 0, 0, 0.349);
+}
+.jason img{
+    display: block;
+    width: 50%;
+    margin-top: -130px;
+    margin-left: -2em;
+    padding: 20px 0px;
+}
+
+
+
+footer p{
+    color: white;
+    background-color: #212529;
+    padding: 30px;
+}
+.shadow-website{
+    border: none;
+    background-color: white;
+    font-size: 18px;
+    padding: 8px 15px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.295);
+}
+
+.footer{
+    background-color: #F9F9FF;
+}
+
+.contact-btn{
+    background-color: #17A2B8;
+    color: white;
+}
